@@ -1,3 +1,5 @@
 ./README.md: Мат. анализ — 4
 
-./articles/uniform_convergence.md: Равномерная сходимость
+./articles/uniform_convergence.md: Равномерная сходимость.
+
+./articles/iterated_limits.md: Теорема о равенстве повторных пределов.
