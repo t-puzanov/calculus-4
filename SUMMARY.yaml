@@ -3,3 +3,5 @@
 ./articles/uniform_convergence.md: Равномерная сходимость.
 
 ./articles/iterated_limits.md: Теорема о равенстве повторных пределов.
+
+./articles/limit_continuity.md: Равномерный предел непрерывных функций.

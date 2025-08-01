@@ -1,3 +1,5 @@
+![](../imgs/headers/uniform_convergence.svg)
+
 <!-- omit from toc -->
 # Равномерная сходимость.
 
