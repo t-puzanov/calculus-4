@@ -5,3 +5,5 @@
 ./articles/iterated_limits.md: Теорема о равенстве повторных пределов.
 
 ./articles/limit_continuity.md: Равномерный предел непрерывных функций.
+
+./articles/differentiation_of_limits.md: Дифференцирование пределов
