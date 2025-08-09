@@ -7,3 +7,5 @@
 ./articles/limit_continuity.md: Равномерный предел непрерывных функций.
 
 ./articles/differentiation_of_limits.md: Дифференцирование пределов
+
+./articles/сonvergence_tests_for_series.md: Признаки равномерной сходимости рядов.
