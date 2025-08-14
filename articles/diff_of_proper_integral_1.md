@@ -32,11 +32,11 @@ $$ \forall \varepsilon > 0 \ \ \exists \delta > 0 \ \ \forall x_1, x_2 \in [a, b
 
 $$ |x_1 - x_2| < \delta, \ \ |y_1 - y_2| < \delta \ \ \Rightarrow \ \ | f^{\prime}_y (x_1, y_1) - f^{\prime}_y (x_2, y_2) | < \varepsilon. $$
 
-Пусть $ x_1 = x_2 = x $, a $ y_1 = y_0 + h $ и $ y_2 = y_0 $.
-
 По формуле Лагранжа найдется $ \theta \in (0, 1) $, что
 
 $$ f^{\prime}_y (x, y_0 + \theta h) = \frac{f(x, y_0 + h) - f(x, y_0)}{h}. $$
+
+Пусть $ x_1 = x_2 = x $, a $ y_1 = y_0 + \theta h $ и $ y_2 = y_0 $.
 
 Получим
 
