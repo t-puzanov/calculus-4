@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/t-puzanov/calculus-4/pulls)
+[![Status](https://img.shields.io/badge/Status-WIP-orange.svg)](#)
 
 > Электронный сборник конспектов по 4 семестру математического анализа в формате Markdown.
 
